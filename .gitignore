@@ -8,3 +8,11 @@ erl_crash.dump
 *.beam
 /config/*.secret.exs
 .elixir_ls/
+
+bin/
+obj/
+vs/
+
+*.bin/
+*.obj/
+*.vs/
