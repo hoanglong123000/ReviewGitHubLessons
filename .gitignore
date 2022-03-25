@@ -12,7 +12,3 @@ erl_crash.dump
 bin/
 obj/
 vs/
-
-*.bin/
-*.obj/
-*.vs/
