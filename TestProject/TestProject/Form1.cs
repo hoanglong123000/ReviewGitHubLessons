@@ -19,7 +19,7 @@ namespace TestProject
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            MessageBox.Show("Change a source code", "MAKE A CHANGE");
         }
     }
 }
