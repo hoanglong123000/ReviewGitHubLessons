@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace TestProject
 {
     public partial class Form1 : Form
-    { // comment 1.
+    { // Declare a change comment by Developer 2.
         public Form1()
         {
             InitializeComponent();
