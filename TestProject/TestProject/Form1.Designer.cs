@@ -77,9 +77,9 @@
             this.Signinlbl.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Signinlbl.Location = new System.Drawing.Point(218, 9);
             this.Signinlbl.Name = "Signinlbl";
-            this.Signinlbl.Size = new System.Drawing.Size(357, 54);
+            this.Signinlbl.Size = new System.Drawing.Size(197, 54);
             this.Signinlbl.TabIndex = 4;
-            this.Signinlbl.Text = "SIGN IN TABLE";
+            this.Signinlbl.Text = "SIGN IN";
             // 
             // Form1
             // 
