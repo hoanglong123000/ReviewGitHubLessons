@@ -19,7 +19,8 @@ namespace TestProject
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Change a source code", "CHANGED BY DEVELOPER 5");
+
+           MessageBox.Show("Change a source code", "CHANGED BY DEVELOPER 5");
         }
     }
 }
